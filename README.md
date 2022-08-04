@@ -1,4 +1,4 @@
 - 👋 Hola, soy José Daniel Garcés Ospina, pero en mis redes me encuentras como @jdanigo
-- 👀 Me interesa desarrollar software, actualmente desarrollo en Javascript (Nodejs, ReactJS, ReactNative) TypeScript(Angular,Ionic) , quieres saber mas de mi perfil ? visitame https://jdanigo.github.io
+- 👀 Me interesa desarrollar software, actualmente desarrollo en Javascript (Nodejs, ReactJS, ReactNative) TypeScript(Angular,Ionic) y .NET CORE quieres saber mas de mi perfil ? visitame https://jdanigo.github.io
 - 🌱 Nunca paro de aprender, mi principal activo es aprender cosas en tiempo record!
 - 📫 Puedes contactarme en https://linkedin.com/in/jdanigo
